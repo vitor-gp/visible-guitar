@@ -4,3 +4,5 @@ This data pipeline implementation is similar to the 1st pipeline but, instead of
 Just like the 1st part, we will use Google Functions triggers, so whenever a file is created inside the Google Storage, Functions will start a `DataProc job ` who runs a script to process this files.
 
 We can use the Data Catalog Implementation to make this pipeline more simple and easy to implement
+
+![alt text](https://github.com/vitor-gp/visible-guitar/blob/master/2st-part/Data%20Pipeline.png?raw=true)
