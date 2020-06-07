@@ -1,0 +1,18 @@
+[
+  {
+    "mode": "NULLABLE", 
+    "name": "StudentClient", 
+    "type": "STRING"
+  }, 
+  {
+    "description": "bq-datetime", 
+    "mode": "NULLABLE", 
+    "name": "SessionStartTime", 
+    "type": "TIMESTAMP"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "StudentId", 
+    "type": "STRING"
+  }
+]

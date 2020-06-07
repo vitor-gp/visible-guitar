@@ -1,0 +1,18 @@
+[
+  {
+    "mode": "NULLABLE", 
+    "name": "PlanType", 
+    "type": "STRING"
+  }, 
+  {
+    "description": "bq-datetime", 
+    "mode": "NULLABLE", 
+    "name": "PaymentDate", 
+    "type": "TIMESTAMP"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "StudentId", 
+    "type": "STRING"
+  }
+]

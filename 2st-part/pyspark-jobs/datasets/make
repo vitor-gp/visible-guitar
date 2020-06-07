@@ -1,0 +1,27 @@
+gsed -i "1s|^.||" sessions.json
+gsed -i "s#]##g" sessions.json
+gsed -i "s#},#}\n#g" sessions.json
+
+gsed -i "1s|^.||" courses.json
+gsed -i "s#]##g" courses.json
+gsed -i "s#},#}\n#g" courses.json
+
+gsed -i "1s|^.||"  students.json
+gsed -i "s#]##g" students.json
+gsed -i "s#},#}\n#g" students.json
+
+gsed -i "1s|^.||" subjects.json
+gsed -i "s#]##g" subjects.json
+gsed -i "s#},#}\n#g" subjects.json
+
+gsed -i "1s|^.||"   subscriptions.json
+gsed -i "s#]##g" subscriptions.json
+gsed -i "s#},#}\n#g" subscriptions.json
+
+gsed -i "1s|^.||"   universities.json
+gsed -i "s#]##g" universities.json
+gsed -i "s#},#}\n#g" universities.json
+
+gsed -i "1s|^.||"   universities.json
+gsed -i "s#]##g" universities.json
+gsed -i "s#},#}\n#g" universities.json
