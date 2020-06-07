@@ -34,4 +34,4 @@ The table schema has following columns:
 - query_child_id
 
 ### Comments
-This is not the kind of implementation to deal with big data, becoming expansive. But if you dont have too much data to handle, its easier and cheaper than the 2st part solution, DataProc starting cluster is expensive.
+This is not the kind of implementation to deal with big data, becoming expansive. But if you dont have too much data to handle, its easier and cheaper than the 2st part solution, DataProc minimum cluster has a high starting price.
