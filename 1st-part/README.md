@@ -33,5 +33,5 @@ The table schema has following columns:
 - query_father_id: query id that will be always connected to a query_child_id
 - query_child_id
 
-### Cons
-This is not the kind of implementation to deal with big data.
+### Comments
+This is not the kind of implementation to deal with big data, becoming expansive. But if you dont have too much data to handle, its easier and cheaper than the 2st part solution, DataProc Cluster starting cluster is expensive.
